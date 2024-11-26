@@ -24,6 +24,9 @@ My enthusiasm for technology fuels my ability to navigate and solve challenging 
 ## Objective
 
 Through my experience in computer science, I’ve discovered a passion for cybersecurity and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+<div align="center">
+  <img src="https://img.freepik.com/premium-photo/software-development-coding-process-concept-programmer-3d_1029679-25869.jpg?ga=GA1.1.1703953409.1732623300&semt=ais_hybrid" width="540" height="280" alt="Discord logo" />
+</div>
 
 ## Skills
 
